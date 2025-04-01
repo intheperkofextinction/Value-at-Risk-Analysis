@@ -70,19 +70,8 @@ Investors can allocate assets to minimize risk exposure.
 
 Traders can integrate VaR into hedging strategies.
 
-🚀 How to Run This Project
-
-Install dependencies:
-
-pip install -r requirements.txt
-
-Run the Jupyter Notebook:
-
-jupyter notebook Cleaned_VaR_MonteCarlo_Simulation.ipynb
 
 🏆 Future Improvements
-
-Implement Conditional VaR (Expected Shortfall) for deeper risk analysis.
 
 Extend Monte Carlo Simulation to include non-normal distributions.
 
